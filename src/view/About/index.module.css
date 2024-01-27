@@ -1,0 +1,11 @@
+.maindiv{
+    width: 90%;
+    margin: auto;
+    border: 2px solid #f5f5f5;
+    margin-top: 10px;
+    min-height: 80vh;
+    padding: 10px;
+}
+.maindiv{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}

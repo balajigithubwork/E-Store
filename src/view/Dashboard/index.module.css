@@ -1,0 +1,49 @@
+.productcards {
+  padding: 0 !important;
+  display: grid;
+  grid-template-columns: 32.5% 32.5% 32.5%;
+  gap: 10px;
+}
+
+.maindiv {
+  width: 90%;
+  margin: auto;
+  padding: 0px 0px 20px 0px;
+}
+.headdiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headdiv h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  color: rgb(58, 58, 58);
+}
+.searchbox {
+  background-color: transparent !important;
+}
+.searchbox input {
+  padding: 14px;
+  border-radius: 5px !important;
+  border: none;
+  width: 350px;
+  background: transparent;
+  outline: none;
+  background-color: #f5f5f5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+.emptydiv svg path {
+  fill: rgb(70, 70, 70) !important;
+}
+.emptydiv svg {
+  font-size: 200px;
+}
+.emptydiv p {
+  font-size: 50px;
+  margin: 0 !important;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+.emptydiv {
+  text-align: center;
+  width: 100%;
+}

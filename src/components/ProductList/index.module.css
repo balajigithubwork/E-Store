@@ -1,0 +1,18 @@
+.cardsize {
+  background-color: rgb(245, 245, 245) !important;
+  width: 100%;
+  border-radius: 5px;
+  padding: 25px 0px !important;
+}
+.carddiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.producttitle{
+    font-weight: bold !important;
+    padding-top: 20px !important;
+    font-size: 15px !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
